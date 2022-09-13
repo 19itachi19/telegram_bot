@@ -1,6 +1,6 @@
 import telebot
-
-token='5799873487:AAGZ7LO0ZsZhxfs2OGwWXBl4vryec4NdEUk'
+#here we initialize the bots account, we can get this token in bot father
+token=''
 
 bot = telebot.TeleBot(token)
 
